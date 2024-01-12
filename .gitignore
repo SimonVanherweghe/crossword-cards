@@ -140,3 +140,4 @@ svgs/solution/*
 plotted.txt
 
 .vscode
+.DS_Store
