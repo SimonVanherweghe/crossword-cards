@@ -4,6 +4,8 @@ This is the code for a New Year's card generator. The cards consist out of a cro
 
 The generation of the crosswords is an updated version of the [Crossword Generator](https://github.com/satchamo/Crossword-Generator/tree/master/crossword) by [satchamo](https://github.com/satchamo)
 
+![An example of a generated crossword](./example.svg "Crossword")
+
 ## Installation
 
 Well... this is a mix of NodeJS, Python and Bash scripts. [ZX](https://google.github.io/zx/) is the glue between them all.
